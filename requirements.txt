@@ -1,0 +1,5 @@
+opencv-python
+boto3
+xlsxwriter
+matplotlib
+botocore
